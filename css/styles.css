@@ -2,5 +2,7 @@ body {
 	width: 100%;
 }
 img {
-	margin: auto;
+	margin: 1em;
+	max-width: 500px;
+	max-height: 350px;
 }
